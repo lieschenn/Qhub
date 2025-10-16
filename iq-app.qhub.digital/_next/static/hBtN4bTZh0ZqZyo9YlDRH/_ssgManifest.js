@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F","\u002Fparsiq\u002Faugust-2022-incentive","\u002Fparsiq\u002Fclaim-1-may-2022-reward-boost","\u002Fparsiq\u002Fclaim","\u002Fenterprise\u002F[nameOrAddr]\u002F[action]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
